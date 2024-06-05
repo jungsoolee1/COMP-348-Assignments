@@ -1,6 +1,6 @@
 # Assignments for COMP 348
 
-First assignments is C.
+First assignment is C.
 
 Second assignment is Python.
 
