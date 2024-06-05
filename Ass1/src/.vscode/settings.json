@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "tablegen.h": "c",
+        "generate.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "sort.h": "c",
+        "io.h": "c"
+    }
+}
